@@ -1,0 +1,10 @@
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.tables-currency-title, .tables-commission-title {
+    margin-top: 30px;
+}

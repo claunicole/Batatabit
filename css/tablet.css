@@ -1,0 +1,14 @@
+.container-tables {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.plans-container--slider {
+    overflow-x: hidden;
+}
+
+.plans-container--card, .plans-container--card-premium, .plans-container--card-basic {
+    margin: 30px auto;
+}
